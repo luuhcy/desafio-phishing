@@ -1,11 +1,11 @@
 # desafio-phishing
-##🌐 Phishing para captura de senhas do Facebook##
+## 🌐Phishing para captura de senhas do Facebook
 
-# 🔧Ferramentas#
+# 🔧Ferramentas
 - Kali Linux
 - setoolkit
 
-#📂Passo a passo:#
+# 📂Passo a passo:
 - Acesso root: sudo su
 - Iniciando o setoolkit: setoolkit
 - Tipo de ataque: Social-Engineering Attacks
@@ -15,4 +15,4 @@
 - Obtendo o endereço da máquina: ifconfig
 - URL para clone: http://www.facebook.com
 
-#🎯Resultados:#
+# 🎯Resultados:
